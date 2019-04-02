@@ -1,0 +1,11 @@
+C:\Users\zack.MWB\source\repos\WeatherAPI\WeatherAPI\bin\Debug\WeatherAPI.exe.config
+C:\Users\zack.MWB\source\repos\WeatherAPI\WeatherAPI\bin\Debug\WeatherAPI.exe
+C:\Users\zack.MWB\source\repos\WeatherAPI\WeatherAPI\bin\Debug\WeatherAPI.pdb
+C:\Users\zack.MWB\source\repos\WeatherAPI\WeatherAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\zack.MWB\source\repos\WeatherAPI\WeatherAPI\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\zack.MWB\source\repos\WeatherAPI\WeatherAPI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\zack.MWB\source\repos\WeatherAPI\WeatherAPI\obj\Debug\WeatherAPI.csprojAssemblyReference.cache
+C:\Users\zack.MWB\source\repos\WeatherAPI\WeatherAPI\obj\Debug\WeatherAPI.csproj.CoreCompileInputs.cache
+C:\Users\zack.MWB\source\repos\WeatherAPI\WeatherAPI\obj\Debug\WeatherAPI.csproj.CopyComplete
+C:\Users\zack.MWB\source\repos\WeatherAPI\WeatherAPI\obj\Debug\WeatherAPI.exe
+C:\Users\zack.MWB\source\repos\WeatherAPI\WeatherAPI\obj\Debug\WeatherAPI.pdb
