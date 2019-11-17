@@ -11,6 +11,8 @@ namespace WeatherAPI
 {
     class Program
     {
+        const string key = "d99ef8df64527f2b2c10da65803ec27b";
+        
         static void Main(string[] args)
         {
             while (true)
@@ -35,7 +37,7 @@ namespace WeatherAPI
                 //needs using system.net.http.headers
                 client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
 
-                HttpResponseMessage response = client.GetAsync("data/2.5/weather?zip=" + zipCode + ",us&appid=d99ef8df64527f2b2c10da65803ec27b").Result;
+                HttpResponseMessage response = client.GetAsync("data/2.5/weather?zip=" + zipCode + ",us&appid=" + key).Result;
 
                 RootObject data = JsonConvert.DeserializeObject<RootObject>(response.Content.ReadAsStringAsync().Result);
 
