@@ -11,7 +11,7 @@ namespace WeatherAPI
 {
     class Program
     {
-        const string key = "d99ef8df64527f2b2c10da65803ec27b";
+        const string key = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX";
         
         static void Main(string[] args)
         {
